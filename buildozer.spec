@@ -5,7 +5,7 @@ package.domain = org.nazz
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
-requirements = python3,kivy==master,pillow,certifi
+requirements = python3, kivy, pillow
 orientation = portrait
 osx.kivy_version = 2.3.0
 fullscreen = 0
